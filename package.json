@@ -1,5 +1,5 @@
 {
-  "name": "usco-file-utils",
+  "name": "@usco/file-utils",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
